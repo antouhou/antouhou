@@ -1,6 +1,6 @@
 ### Hi! Nice to meet you! 👋
 
-My name is Anton, and currently I'm principal developer at <a href="dash.org" target="_blank">Dash</a>.
+My name is Anton, and currently I'm principal developer at <a href="https://dash.org" target="_blank">Dash</a>.
 
 During my career I was working with a variety of languages and technologies, inlcuding JavaScript, C#, python, C++ and some more.
 
