@@ -1,10 +1,8 @@
 ### Hi! Nice to meet you! 👋
 
-My name is Anton, and currently I'm working at <a href="https://dash.org" target="_blank">Dash</a>.
-
-During my career I was working with a variety of languages and technologies, inlcuding JavaScript, C#, python, C++ and some more.
-
-- You can reach me on [Twitter](https://twitter.com/antouhou), [LinkedIn](https://www.linkedin.com/in/anton-suprunchuk-787286103/), or via [email](mailto:anton.suprunchuk@gmail.com)
+- My name is Anton, and currently I'm working at <a href="https://dash.org" target="_blank">Dash</a>.
+- During my career I was working with a variety of languages and technologies, inlcuding JavaScript, C#, python, C++ and some more.
+- You can reach out to me is via [email](mailto:anton.suprunchuk@gmail.com). I also have [Twitter](https://twitter.com/antouhou) and [LinkedIn](https://www.linkedin.com/in/anton-suprunchuk-787286103/)
 
 <!--
 **antouhou/antouhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
