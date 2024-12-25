@@ -2,7 +2,7 @@
 
 - My name is Anton, and currently I'm a principal developer at <a href="https://dash.org" target="_blank">Dash</a>.
 - During my career I was working with a variety of languages and technologies, inlcuding Rust, JavaScript, C#, python, C++ and some more.
-- You can reach out to me via [email](mailto:anton.suprunchuk@gmail.com). Also, you can follow me on [Twitter](https://twitter.com/antouhou) and [LinkedIn](https://www.linkedin.com/in/anton-suprunchuk/)
+- You can reach out to me via email [here](mailto:anton.suprunchuk@gmail.com) or [here](mailto:anton.suprunchuk@pm.me). Also, you can follow me on [Twitter](https://twitter.com/antouhou) and [LinkedIn](https://www.linkedin.com/in/anton-suprunchuk/)
 
 <!--
 **antouhou/antouhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
