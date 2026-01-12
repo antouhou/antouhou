@@ -3,6 +3,9 @@
 - I'm making a lot of different Open Source software - primary different graphic utilities and related tools.
 - During my career I was working with a variety of languages and technologies, inlcuding Rust, JavaScript, C#, python, C++ and some more.
 - You can reach out to me via email [here](mailto:anton.suprunchuk@gmail.com) or [here](mailto:anton.suprunchuk@pm.me). Also, you can follow me on [Twitter](https://twitter.com/antouhou) and [LinkedIn](https://www.linkedin.com/in/anton-suprunchuk/)
+- If you found anything I do useful, please consider supporting my work by supsribing to my social networks or becoming a [GitHub Sponsor](https://github.com/sponsors/antouhou)!
+
+Thank you!
 
 <!--
 **antouhou/antouhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
